@@ -1,0 +1,19 @@
+{
+  "name": "organick",
+  "version": "1.0.0",
+  "description": "Some layout from https://www.figma.com/file/8gNNOL0afVJ7B4n9B5TSDg/Organick?type=design&mode=design&t=gTa4gHfWGNG24NYb-0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heknt90/organick-layout.git"
+  },
+  "author": "Nikita Efremov <heknt90@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heknt90/organick-layout/issues"
+  },
+  "homepage": "https://github.com/heknt90/organick-layout#readme"
+}
